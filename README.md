@@ -37,7 +37,6 @@ plt.legend()
 
 ![image](https://github.com/user-attachments/assets/b209c136-0845-4f9e-9156-2f66acd26497)
 ```
-```
 import matplotlib.pyplot as plt
 x=[1,2,3,4,5,6]
 y=[2,4,1,5,2,6]
